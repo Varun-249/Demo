@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 My first message. 
 My second msg 
+=======
+My first message.
+My third msg
+>>>>>>> 6c02be90ec58fa516186c5872661323296697342
